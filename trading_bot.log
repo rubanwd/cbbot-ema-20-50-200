@@ -1,0 +1,1640 @@
+2025-08-19 21:12:11,814 - INFO - ------ Bot iteration ------
+2025-08-19 21:18:40,036 - INFO - ------ Bot iteration ------
+2025-08-19 21:18:41,315 - INFO - Position is open -> manage
+2025-08-19 21:18:41,315 - INFO - Position age 8543.26h >= 12.0h -> closing by market
+2025-08-19 21:21:36,879 - INFO - ------ Bot iteration ------
+2025-08-19 21:23:41,638 - INFO - ------ Bot iteration ------
+2025-08-19 21:23:42,238 - INFO - Position is open -> manage
+2025-08-19 21:23:42,238 - INFO - Position age 8543.35h >= 12.0h -> closing by market
+2025-08-19 21:23:42,534 - INFO - Closed overtime position.
+2025-08-19 21:24:42,559 - INFO - ------ Bot iteration ------
+2025-08-19 21:24:42,953 - INFO - No new bar yet.
+2025-08-19 21:25:42,975 - INFO - ------ Bot iteration ------
+2025-08-19 21:25:43,709 - INFO - No new bar yet.
+2025-08-19 21:26:43,732 - INFO - ------ Bot iteration ------
+2025-08-19 21:26:44,076 - INFO - No new bar yet.
+2025-08-19 21:27:44,098 - INFO - ------ Bot iteration ------
+2025-08-19 21:27:44,820 - INFO - No new bar yet.
+2025-08-19 21:28:44,844 - INFO - ------ Bot iteration ------
+2025-08-19 21:28:45,610 - INFO - No new bar yet.
+2025-08-19 21:29:45,631 - INFO - ------ Bot iteration ------
+2025-08-19 21:29:45,979 - INFO - No new bar yet.
+2025-08-19 21:30:46,001 - INFO - ------ Bot iteration ------
+2025-08-19 21:30:46,450 - INFO - No new bar yet.
+2025-08-19 21:31:46,473 - INFO - ------ Bot iteration ------
+2025-08-19 21:31:46,838 - INFO - No new bar yet.
+2025-08-19 21:32:46,860 - INFO - ------ Bot iteration ------
+2025-08-19 21:32:47,524 - INFO - No new bar yet.
+2025-08-19 21:33:47,548 - INFO - ------ Bot iteration ------
+2025-08-19 21:33:48,074 - INFO - No new bar yet.
+2025-08-19 21:34:48,095 - INFO - ------ Bot iteration ------
+2025-08-19 21:34:48,476 - INFO - No new bar yet.
+2025-08-19 21:35:48,497 - INFO - ------ Bot iteration ------
+2025-08-19 21:35:49,074 - INFO - No new bar yet.
+2025-08-19 21:36:49,096 - INFO - ------ Bot iteration ------
+2025-08-19 21:36:49,461 - INFO - No new bar yet.
+2025-08-19 21:37:49,483 - INFO - ------ Bot iteration ------
+2025-08-19 21:37:49,851 - INFO - No new bar yet.
+2025-08-19 21:38:49,873 - INFO - ------ Bot iteration ------
+2025-08-19 21:38:50,431 - INFO - No new bar yet.
+2025-08-19 21:39:50,455 - INFO - ------ Bot iteration ------
+2025-08-19 21:39:50,816 - INFO - No new bar yet.
+2025-08-19 21:40:50,837 - INFO - ------ Bot iteration ------
+2025-08-19 21:40:51,574 - INFO - No new bar yet.
+2025-08-19 21:41:51,596 - INFO - ------ Bot iteration ------
+2025-08-19 21:41:51,959 - INFO - No new bar yet.
+2025-08-19 21:42:51,983 - INFO - ------ Bot iteration ------
+2025-08-19 21:42:52,520 - INFO - No new bar yet.
+2025-08-19 21:43:52,541 - INFO - ------ Bot iteration ------
+2025-08-19 21:43:52,922 - INFO - No new bar yet.
+2025-08-19 21:44:52,946 - INFO - ------ Bot iteration ------
+2025-08-19 21:44:53,312 - INFO - No new bar yet.
+2025-08-19 21:45:53,335 - INFO - ------ Bot iteration ------
+2025-08-19 21:45:53,741 - INFO - No new bar yet.
+2025-08-19 21:46:53,799 - INFO - ------ Bot iteration ------
+2025-08-19 21:46:54,169 - INFO - No new bar yet.
+2025-08-19 21:47:54,191 - INFO - ------ Bot iteration ------
+2025-08-19 21:47:54,767 - INFO - No new bar yet.
+2025-08-19 21:48:54,790 - INFO - ------ Bot iteration ------
+2025-08-19 21:48:55,518 - INFO - No new bar yet.
+2025-08-19 21:49:55,540 - INFO - ------ Bot iteration ------
+2025-08-19 21:49:56,116 - INFO - No new bar yet.
+2025-08-19 21:50:56,139 - INFO - ------ Bot iteration ------
+2025-08-19 21:50:57,219 - INFO - No new bar yet.
+2025-08-19 21:51:57,242 - INFO - ------ Bot iteration ------
+2025-08-19 21:51:58,014 - INFO - No new bar yet.
+2025-08-19 21:52:58,037 - INFO - ------ Bot iteration ------
+2025-08-19 21:52:58,591 - INFO - No new bar yet.
+2025-08-19 21:53:58,616 - INFO - ------ Bot iteration ------
+2025-08-19 21:53:59,717 - INFO - No new bar yet.
+2025-08-19 21:54:59,740 - INFO - ------ Bot iteration ------
+2025-08-19 21:55:00,307 - INFO - No new bar yet.
+2025-08-19 21:56:00,331 - INFO - ------ Bot iteration ------
+2025-08-19 21:56:01,188 - INFO - No new bar yet.
+2025-08-19 21:57:01,211 - INFO - ------ Bot iteration ------
+2025-08-19 21:57:01,824 - INFO - No new bar yet.
+2025-08-19 21:58:01,850 - INFO - ------ Bot iteration ------
+2025-08-19 21:58:02,799 - INFO - No new bar yet.
+2025-08-19 21:59:02,821 - INFO - ------ Bot iteration ------
+2025-08-19 21:59:03,419 - INFO - No new bar yet.
+2025-08-19 22:00:03,443 - INFO - ------ Bot iteration ------
+2025-08-19 22:00:05,239 - INFO - Cooldown active: 5017s left
+2025-08-19 22:01:05,261 - INFO - ------ Bot iteration ------
+2025-08-19 22:01:06,637 - INFO - No new bar yet.
+2025-08-19 22:02:06,661 - INFO - ------ Bot iteration ------
+2025-08-19 22:02:07,017 - INFO - No new bar yet.
+2025-08-19 22:03:07,042 - INFO - ------ Bot iteration ------
+2025-08-19 22:03:08,135 - INFO - No new bar yet.
+2025-08-19 22:04:08,161 - INFO - ------ Bot iteration ------
+2025-08-19 22:04:08,900 - INFO - No new bar yet.
+2025-08-19 22:05:08,925 - INFO - ------ Bot iteration ------
+2025-08-19 22:05:10,873 - INFO - No new bar yet.
+2025-08-19 22:06:10,896 - INFO - ------ Bot iteration ------
+2025-08-19 22:06:11,612 - INFO - No new bar yet.
+2025-08-19 22:07:11,635 - INFO - ------ Bot iteration ------
+2025-08-19 22:07:12,360 - INFO - No new bar yet.
+2025-08-19 22:08:12,385 - INFO - ------ Bot iteration ------
+2025-08-19 22:08:12,902 - INFO - No new bar yet.
+2025-08-19 22:09:12,925 - INFO - ------ Bot iteration ------
+2025-08-19 22:09:13,290 - INFO - No new bar yet.
+2025-08-19 22:10:13,312 - INFO - ------ Bot iteration ------
+2025-08-19 22:10:14,325 - INFO - No new bar yet.
+2025-08-19 22:11:14,348 - INFO - ------ Bot iteration ------
+2025-08-19 22:11:14,893 - INFO - No new bar yet.
+2025-08-19 22:12:14,915 - INFO - ------ Bot iteration ------
+2025-08-19 22:12:15,598 - INFO - No new bar yet.
+2025-08-19 22:13:15,624 - INFO - ------ Bot iteration ------
+2025-08-19 22:13:16,828 - INFO - No new bar yet.
+2025-08-19 22:14:16,852 - INFO - ------ Bot iteration ------
+2025-08-19 22:14:17,543 - INFO - No new bar yet.
+2025-08-19 22:15:17,565 - INFO - ------ Bot iteration ------
+2025-08-19 22:15:18,290 - INFO - No new bar yet.
+2025-08-19 22:16:18,316 - INFO - ------ Bot iteration ------
+2025-08-19 22:16:19,046 - INFO - No new bar yet.
+2025-08-19 22:17:19,068 - INFO - ------ Bot iteration ------
+2025-08-19 22:17:19,440 - INFO - No new bar yet.
+2025-08-19 22:18:19,466 - INFO - ------ Bot iteration ------
+2025-08-19 22:18:19,852 - INFO - No new bar yet.
+2025-08-19 22:19:19,880 - INFO - ------ Bot iteration ------
+2025-08-19 22:19:20,261 - INFO - No new bar yet.
+2025-08-19 22:20:20,284 - INFO - ------ Bot iteration ------
+2025-08-19 22:20:20,654 - INFO - No new bar yet.
+2025-08-19 22:21:20,679 - INFO - ------ Bot iteration ------
+2025-08-19 22:21:21,059 - INFO - No new bar yet.
+2025-08-19 22:22:21,085 - INFO - ------ Bot iteration ------
+2025-08-19 22:22:21,798 - INFO - No new bar yet.
+2025-08-19 22:23:21,821 - INFO - ------ Bot iteration ------
+2025-08-19 22:23:23,069 - INFO - No new bar yet.
+2025-08-19 22:24:23,094 - INFO - ------ Bot iteration ------
+2025-08-19 22:24:24,131 - INFO - No new bar yet.
+2025-08-19 22:25:24,154 - INFO - ------ Bot iteration ------
+2025-08-19 22:25:24,878 - INFO - No new bar yet.
+2025-08-19 22:26:24,899 - INFO - ------ Bot iteration ------
+2025-08-19 22:26:25,509 - INFO - No new bar yet.
+2025-08-19 22:27:25,533 - INFO - ------ Bot iteration ------
+2025-08-19 22:27:26,227 - INFO - No new bar yet.
+2025-08-19 22:28:26,250 - INFO - ------ Bot iteration ------
+2025-08-19 22:28:27,344 - INFO - No new bar yet.
+2025-08-19 22:29:27,369 - INFO - ------ Bot iteration ------
+2025-08-19 22:29:28,069 - INFO - No new bar yet.
+2025-08-19 22:30:28,093 - INFO - ------ Bot iteration ------
+2025-08-19 22:30:28,854 - INFO - No new bar yet.
+2025-08-19 22:31:28,879 - INFO - ------ Bot iteration ------
+2025-08-19 22:31:29,593 - INFO - No new bar yet.
+2025-08-19 22:32:29,617 - INFO - ------ Bot iteration ------
+2025-08-19 22:32:30,655 - INFO - No new bar yet.
+2025-08-19 22:33:30,676 - INFO - ------ Bot iteration ------
+2025-08-19 22:33:31,400 - INFO - No new bar yet.
+2025-08-19 22:34:31,421 - INFO - ------ Bot iteration ------
+2025-08-19 22:34:32,428 - INFO - No new bar yet.
+2025-08-19 22:35:32,453 - INFO - ------ Bot iteration ------
+2025-08-19 22:35:33,245 - INFO - No new bar yet.
+2025-08-19 22:36:33,268 - INFO - ------ Bot iteration ------
+2025-08-19 22:36:34,285 - INFO - No new bar yet.
+2025-08-19 22:37:34,308 - INFO - ------ Bot iteration ------
+2025-08-19 22:37:34,693 - INFO - No new bar yet.
+2025-08-19 22:38:34,716 - INFO - ------ Bot iteration ------
+2025-08-19 22:38:35,427 - INFO - No new bar yet.
+2025-08-19 22:39:35,451 - INFO - ------ Bot iteration ------
+2025-08-19 22:39:35,974 - INFO - No new bar yet.
+2025-08-19 22:40:35,994 - INFO - ------ Bot iteration ------
+2025-08-19 22:40:37,174 - INFO - No new bar yet.
+2025-08-19 22:41:37,197 - INFO - ------ Bot iteration ------
+2025-08-19 22:41:38,271 - INFO - No new bar yet.
+2025-08-19 22:42:38,295 - INFO - ------ Bot iteration ------
+2025-08-19 22:42:39,468 - INFO - No new bar yet.
+2025-08-19 22:43:39,490 - INFO - ------ Bot iteration ------
+2025-08-19 22:43:39,866 - INFO - No new bar yet.
+2025-08-19 22:44:39,889 - INFO - ------ Bot iteration ------
+2025-08-19 22:44:40,928 - INFO - No new bar yet.
+2025-08-19 22:45:40,951 - INFO - ------ Bot iteration ------
+2025-08-19 22:45:42,011 - INFO - No new bar yet.
+2025-08-19 22:46:42,034 - INFO - ------ Bot iteration ------
+2025-08-19 22:46:43,052 - INFO - No new bar yet.
+2025-08-19 22:47:43,074 - INFO - ------ Bot iteration ------
+2025-08-19 22:47:43,786 - INFO - No new bar yet.
+2025-08-19 22:48:43,810 - INFO - ------ Bot iteration ------
+2025-08-19 22:48:44,522 - INFO - No new bar yet.
+2025-08-19 22:49:44,548 - INFO - ------ Bot iteration ------
+2025-08-19 22:49:45,601 - INFO - No new bar yet.
+2025-08-19 22:50:45,624 - INFO - ------ Bot iteration ------
+2025-08-19 22:50:46,683 - INFO - No new bar yet.
+2025-08-19 22:51:46,708 - INFO - ------ Bot iteration ------
+2025-08-19 22:51:47,739 - INFO - No new bar yet.
+2025-08-19 22:52:47,764 - INFO - ------ Bot iteration ------
+2025-08-19 22:52:48,496 - INFO - No new bar yet.
+2025-08-19 22:53:48,519 - INFO - ------ Bot iteration ------
+2025-08-19 22:53:49,719 - INFO - No new bar yet.
+2025-08-19 22:54:49,743 - INFO - ------ Bot iteration ------
+2025-08-19 22:54:50,439 - INFO - No new bar yet.
+2025-08-19 22:55:50,463 - INFO - ------ Bot iteration ------
+2025-08-19 22:55:51,516 - INFO - No new bar yet.
+2025-08-19 22:56:51,539 - INFO - ------ Bot iteration ------
+2025-08-19 22:56:52,254 - INFO - No new bar yet.
+2025-08-19 22:57:52,277 - INFO - ------ Bot iteration ------
+2025-08-19 22:57:52,989 - INFO - No new bar yet.
+2025-08-19 22:58:53,010 - INFO - ------ Bot iteration ------
+2025-08-19 22:58:53,392 - INFO - No new bar yet.
+2025-08-19 22:59:53,416 - INFO - ------ Bot iteration ------
+2025-08-19 22:59:53,939 - INFO - No new bar yet.
+2025-08-19 23:00:53,964 - INFO - ------ Bot iteration ------
+2025-08-19 23:00:54,972 - INFO - Cooldown active: 1367s left
+2025-08-19 23:01:54,996 - INFO - ------ Bot iteration ------
+2025-08-19 23:01:55,369 - INFO - No new bar yet.
+2025-08-19 23:02:55,391 - INFO - ------ Bot iteration ------
+2025-08-19 23:02:56,435 - INFO - No new bar yet.
+2025-08-19 23:03:56,459 - INFO - ------ Bot iteration ------
+2025-08-19 23:03:57,466 - INFO - No new bar yet.
+2025-08-19 23:04:57,489 - INFO - ------ Bot iteration ------
+2025-08-19 23:04:58,700 - INFO - No new bar yet.
+2025-08-19 23:05:58,723 - INFO - ------ Bot iteration ------
+2025-08-19 23:05:59,737 - INFO - No new bar yet.
+2025-08-19 23:06:59,761 - INFO - ------ Bot iteration ------
+2025-08-19 23:07:00,488 - INFO - No new bar yet.
+2025-08-19 23:08:00,510 - INFO - ------ Bot iteration ------
+2025-08-19 23:08:01,539 - INFO - No new bar yet.
+2025-08-19 23:09:01,562 - INFO - ------ Bot iteration ------
+2025-08-19 23:09:02,751 - INFO - No new bar yet.
+2025-08-19 23:10:02,775 - INFO - ------ Bot iteration ------
+2025-08-19 23:10:03,992 - INFO - No new bar yet.
+2025-08-19 23:11:04,019 - INFO - ------ Bot iteration ------
+2025-08-19 23:11:05,069 - INFO - No new bar yet.
+2025-08-19 23:12:05,093 - INFO - ------ Bot iteration ------
+2025-08-19 23:12:05,804 - INFO - No new bar yet.
+2025-08-19 23:13:05,825 - INFO - ------ Bot iteration ------
+2025-08-19 23:13:06,859 - INFO - No new bar yet.
+2025-08-19 23:14:06,882 - INFO - ------ Bot iteration ------
+2025-08-19 23:14:07,903 - INFO - No new bar yet.
+2025-08-19 23:15:07,925 - INFO - ------ Bot iteration ------
+2025-08-19 23:15:08,624 - INFO - No new bar yet.
+2025-08-19 23:16:08,648 - INFO - ------ Bot iteration ------
+2025-08-19 23:16:09,839 - INFO - No new bar yet.
+2025-08-19 23:17:09,862 - INFO - ------ Bot iteration ------
+2025-08-19 23:17:10,907 - INFO - No new bar yet.
+2025-08-19 23:18:10,933 - INFO - ------ Bot iteration ------
+2025-08-19 23:18:12,128 - INFO - No new bar yet.
+2025-08-19 23:19:12,151 - INFO - ------ Bot iteration ------
+2025-08-19 23:19:12,692 - INFO - No new bar yet.
+2025-08-19 23:20:12,715 - INFO - ------ Bot iteration ------
+2025-08-19 23:20:13,114 - INFO - No new bar yet.
+2025-08-19 23:21:13,138 - INFO - ------ Bot iteration ------
+2025-08-19 23:21:13,834 - INFO - No new bar yet.
+2025-08-19 23:22:13,856 - INFO - ------ Bot iteration ------
+2025-08-19 23:22:14,537 - INFO - No new bar yet.
+2025-08-19 23:23:14,559 - INFO - ------ Bot iteration ------
+2025-08-19 23:23:15,266 - INFO - No new bar yet.
+2025-08-19 23:24:15,291 - INFO - ------ Bot iteration ------
+2025-08-19 23:24:15,664 - INFO - No new bar yet.
+2025-08-19 23:25:15,688 - INFO - ------ Bot iteration ------
+2025-08-19 23:25:16,020 - INFO - No new bar yet.
+2025-08-19 23:26:16,046 - INFO - ------ Bot iteration ------
+2025-08-19 23:26:16,398 - INFO - No new bar yet.
+2025-08-19 23:27:16,420 - INFO - ------ Bot iteration ------
+2025-08-19 23:27:16,948 - INFO - No new bar yet.
+2025-08-19 23:28:16,971 - INFO - ------ Bot iteration ------
+2025-08-19 23:28:17,342 - INFO - No new bar yet.
+2025-08-19 23:29:17,365 - INFO - ------ Bot iteration ------
+2025-08-19 23:29:17,901 - INFO - No new bar yet.
+2025-08-19 23:30:17,923 - INFO - ------ Bot iteration ------
+2025-08-19 23:30:18,468 - INFO - No new bar yet.
+2025-08-19 23:31:18,489 - INFO - ------ Bot iteration ------
+2025-08-19 23:31:18,866 - INFO - No new bar yet.
+2025-08-19 23:32:18,891 - INFO - ------ Bot iteration ------
+2025-08-19 23:32:19,245 - INFO - No new bar yet.
+2025-08-19 23:33:19,270 - INFO - ------ Bot iteration ------
+2025-08-19 23:33:19,641 - INFO - No new bar yet.
+2025-08-19 23:34:19,671 - INFO - ------ Bot iteration ------
+2025-08-19 23:34:20,022 - INFO - No new bar yet.
+2025-08-19 23:35:20,041 - INFO - ------ Bot iteration ------
+2025-08-19 23:35:20,373 - INFO - No new bar yet.
+2025-08-19 23:36:20,398 - INFO - ------ Bot iteration ------
+2025-08-19 23:36:20,758 - INFO - No new bar yet.
+2025-08-19 23:37:20,784 - INFO - ------ Bot iteration ------
+2025-08-19 23:37:21,152 - INFO - No new bar yet.
+2025-08-19 23:38:21,177 - INFO - ------ Bot iteration ------
+2025-08-19 23:38:21,687 - INFO - No new bar yet.
+2025-08-19 23:38:38,887 - INFO - [BTCUSDT] Meta loaded: {'lot_step': 0.001, 'tick_step': 0.1, 'min_order_qty': 0.001}
+2025-08-19 23:38:39,166 - INFO - [ETHUSDT] Meta loaded: {'lot_step': 0.01, 'tick_step': 0.01, 'min_order_qty': 0.01}
+2025-08-19 23:38:39,424 - INFO - [SOLUSDT] Meta loaded: {'lot_step': 0.1, 'tick_step': 0.01, 'min_order_qty': 0.1}
+2025-08-19 23:38:39,713 - INFO - [ADAUSDT] Meta loaded: {'lot_step': 1.0, 'tick_step': 0.0001, 'min_order_qty': 1.0}
+2025-08-19 23:38:39,713 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:38:40,289 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=True
+2025-08-19 23:38:41,027 - INFO - [ETHUSDT] Trend=short | touched=False | confirmed=True
+2025-08-19 23:38:41,786 - INFO - [SOLUSDT] Trend=short | touched=False | confirmed=True
+2025-08-19 23:38:42,547 - INFO - [ADAUSDT] Trend=short | touched=False | confirmed=True
+2025-08-19 23:39:42,771 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:39:43,134 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:39:44,328 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:39:44,824 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:39:45,292 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:40:45,515 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:40:45,851 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:40:46,512 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:40:46,992 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:40:47,457 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:41:47,682 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:41:48,734 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:41:49,581 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:41:50,237 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:41:50,720 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:42:50,944 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:42:51,305 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:42:51,963 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:42:52,429 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:42:52,921 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:43:53,145 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:43:53,521 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:43:54,022 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:43:54,518 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:43:55,001 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:44:55,223 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:44:55,597 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:44:56,086 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:44:56,580 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:44:57,045 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:45:57,269 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:45:58,334 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:45:58,817 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:45:59,484 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:45:59,964 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:47:00,189 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:47:00,904 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:47:01,738 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:47:02,401 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:47:02,872 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:48:03,100 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:48:03,459 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:48:03,953 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:48:04,601 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:48:05,097 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:49:05,319 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:49:05,673 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:49:06,345 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:49:07,022 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:49:07,692 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:50:07,916 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:50:08,292 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:50:08,787 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:50:09,301 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:50:09,962 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:51:10,189 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:51:10,542 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:51:11,036 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:51:11,506 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:51:11,993 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:52:12,220 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:52:12,933 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:52:13,580 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:52:14,058 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:52:14,526 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:53:14,749 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:53:15,270 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:53:15,917 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:53:16,585 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:53:17,240 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:54:17,464 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:54:18,176 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:54:18,665 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:54:19,151 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:54:19,651 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:55:19,877 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:55:20,410 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:55:20,880 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:55:21,540 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:55:22,027 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:56:22,254 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:56:22,593 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:56:23,089 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:56:23,580 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:56:24,235 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:57:24,459 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:57:24,830 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:57:25,309 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:57:25,781 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:57:26,269 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:58:26,491 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:58:26,853 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:58:27,320 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:58:27,816 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:58:28,305 - INFO - [ADAUSDT] No new bar yet.
+2025-08-19 23:59:28,530 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-19 23:59:28,901 - INFO - [BTCUSDT] No new bar yet.
+2025-08-19 23:59:29,394 - INFO - [ETHUSDT] No new bar yet.
+2025-08-19 23:59:29,886 - INFO - [SOLUSDT] No new bar yet.
+2025-08-19 23:59:30,391 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:00:30,617 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:00:31,269 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 00:00:32,011 - INFO - [ETHUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 00:00:32,750 - INFO - [SOLUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 00:00:33,508 - INFO - [ADAUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 00:01:33,733 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:01:34,089 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:01:34,554 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:01:35,196 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:01:35,849 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:02:36,069 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:02:36,600 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:02:37,076 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:02:37,547 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:02:38,035 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:03:38,258 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:03:38,623 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:03:39,117 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:03:39,612 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:03:40,119 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:04:40,343 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:04:40,673 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:04:41,160 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:04:41,639 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:04:42,110 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:05:42,333 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:05:42,687 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:05:43,171 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:05:43,651 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:05:44,132 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:06:44,357 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:06:44,713 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:06:45,205 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:06:45,687 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:06:46,163 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:07:46,388 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:07:46,719 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:07:47,205 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:07:47,669 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:07:48,150 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:08:48,373 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:08:48,716 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:08:49,184 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:08:49,679 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:08:50,161 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:09:50,386 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:09:50,739 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:09:51,583 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:09:52,071 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:09:52,724 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:10:52,947 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:10:53,284 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:10:53,762 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:10:54,247 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:10:54,733 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:11:54,956 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:11:55,330 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:11:55,803 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:11:56,312 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:11:56,784 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:12:57,007 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:12:57,367 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:12:57,835 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:12:58,338 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:12:58,808 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:13:59,033 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:13:59,422 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:13:59,924 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:14:00,414 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:14:00,915 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:15:01,139 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:15:01,682 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:15:02,192 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:15:02,690 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:15:03,356 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:16:03,580 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:16:03,949 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:16:04,513 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:16:04,992 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:16:05,470 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:17:05,695 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:17:06,084 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:17:06,570 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:17:07,042 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:17:07,528 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:18:07,758 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:18:08,106 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:18:08,587 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:18:09,059 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:18:09,557 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:19:09,780 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:19:10,122 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:19:10,624 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:19:11,109 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:19:11,588 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:20:11,811 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:20:12,172 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:20:12,663 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:20:13,149 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:20:13,637 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:21:13,860 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:21:14,236 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:21:14,702 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:21:15,183 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:21:15,675 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:22:15,898 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:22:16,272 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:22:16,934 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:22:17,405 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:22:18,078 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:23:18,301 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:23:18,673 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:23:19,174 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:23:19,670 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:23:20,141 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:24:20,365 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:24:20,754 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:24:21,246 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:24:21,739 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:24:22,229 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:25:22,453 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:25:22,819 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:25:23,298 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:25:23,801 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:25:24,276 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:26:24,500 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:26:24,874 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:26:25,365 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:26:25,839 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:26:26,331 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:27:26,553 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:27:26,923 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:27:27,410 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:27:27,895 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:27:28,367 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:28:28,597 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:28:29,653 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:28:30,124 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:28:30,614 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:28:31,089 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:29:31,312 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:29:31,690 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:29:32,174 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:29:32,654 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:29:33,129 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:30:34,131 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:30:34,683 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:30:35,339 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:30:35,819 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:30:36,322 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:31:36,555 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:31:36,910 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:31:37,391 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:31:37,887 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:31:38,384 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 00:32:38,616 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 00:32:38,989 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 00:32:39,482 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 00:32:39,952 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 00:32:40,427 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 01:33:32,177 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 01:33:33,081 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 01:33:33,862 - INFO - [ETHUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 01:33:34,802 - INFO - [SOLUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 01:33:35,572 - INFO - [ADAUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 11:23:42,800 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:23:42,954 - ERROR - [BTCUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=BTCUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEBA090>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADAEBA090>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=BTCUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEBA090>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=BTCUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEBA090>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 11:23:43,338 - ERROR - [ETHUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ETHUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF7EC0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADAEF7EC0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ETHUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF7EC0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ETHUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF7EC0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 11:23:43,545 - ERROR - [SOLUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=SOLUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=SOLUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=SOLUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 11:23:43,751 - ERROR - [ADAUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ADAUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF46E0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADAEF46E0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ADAUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF46E0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ADAUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF46E0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 11:24:44,222 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:24:44,878 - INFO - [BTCUSDT] Position is open -> manage
+2025-08-20 11:24:44,880 - INFO - [BTCUSDT] Position age 8557.36h >= 12.0h -> closing by market
+2025-08-20 11:24:45,180 - INFO - [BTCUSDT] Closed overtime position.
+2025-08-20 11:24:48,720 - INFO - [ETHUSDT] Trend=short | touched=False | confirmed=False
+2025-08-20 11:24:49,477 - INFO - [SOLUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 11:24:50,215 - INFO - [ADAUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 11:25:50,438 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:25:50,888 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:25:51,763 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:25:52,242 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:25:52,712 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:26:52,935 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:26:53,300 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:26:53,790 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:26:54,466 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:26:54,954 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:27:55,176 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:27:55,548 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:27:56,025 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:27:56,506 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:27:57,019 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:28:57,243 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:28:57,589 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:28:58,078 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:28:58,572 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:28:59,240 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:29:59,463 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:29:59,828 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:30:00,325 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:30:00,819 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:30:01,296 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:31:01,521 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:31:01,880 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:31:02,372 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:31:03,052 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:31:03,715 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:32:03,936 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:32:04,302 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:32:04,955 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:32:05,619 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:32:06,112 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:33:06,337 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:33:06,860 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:33:07,358 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:33:08,036 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:33:08,777 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:34:09,000 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:34:09,359 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:34:09,849 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:34:10,336 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:34:10,820 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:35:11,043 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:35:11,419 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:35:11,894 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:35:12,370 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:35:12,879 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:36:13,103 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:36:13,464 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:36:13,953 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:36:14,433 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:36:15,084 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:37:15,310 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:37:16,017 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 11:37:16,680 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 11:37:17,340 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 11:37:18,351 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 11:38:18,577 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 11:38:19,086 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:37:19,640 - ERROR - [ETHUSDT] Unexpected error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 464, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 464, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-20 14:37:20,932 - INFO - [SOLUSDT] Trend=short | touched=True | confirmed=True
+2025-08-20 14:37:20,955 - INFO - [SOLUSDT] ENTRY short | entry=179.34 stop=184.57 tp=168.88 qty=1.9
+2025-08-20 14:37:21,967 - ERROR - [SOLUSDT] Place order error: Bybit error: leverage not modified | {"retCode": 110043, "retMsg": "leverage not modified", "result": {}, "retExtInfo": {}, "time": 1755689842101}
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 216, in process_symbol
+    self.fetcher.session.set_leverage(sym, self.leverage)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 129, in set_leverage
+    return self._request_private("POST", "/v5/position/set-leverage", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 87, in _request_private
+    raise RuntimeError(f"Bybit error: {data.get('retMsg')} | {json.dumps(data)[:300]}")
+RuntimeError: Bybit error: leverage not modified | {"retCode": 110043, "retMsg": "leverage not modified", "result": {}, "retExtInfo": {}, "time": 1755689842101}
+2025-08-20 14:37:23,265 - INFO - [ADAUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 14:38:23,502 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:38:24,802 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 14:38:26,001 - INFO - [ETHUSDT] Trend=short | touched=True | confirmed=True
+2025-08-20 14:38:26,001 - INFO - [ETHUSDT] ENTRY short | entry=4186.97 stop=4293.96 tp=3972.9900000000002 qty=0.09
+2025-08-20 14:38:26,533 - ERROR - [ETHUSDT] Place order error: Bybit error: leverage not modified | {"retCode": 110043, "retMsg": "leverage not modified", "result": {}, "retExtInfo": {}, "time": 1755689906635}
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 216, in process_symbol
+    self.fetcher.session.set_leverage(sym, self.leverage)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 129, in set_leverage
+    return self._request_private("POST", "/v5/position/set-leverage", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 87, in _request_private
+    raise RuntimeError(f"Bybit error: {data.get('retMsg')} | {json.dumps(data)[:300]}")
+RuntimeError: Bybit error: leverage not modified | {"retCode": 110043, "retMsg": "leverage not modified", "result": {}, "retExtInfo": {}, "time": 1755689906635}
+2025-08-20 14:38:27,565 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:38:28,369 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:39:28,605 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:39:28,958 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:39:30,132 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:39:30,655 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:39:31,325 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:40:31,556 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:40:31,896 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:40:32,742 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:40:33,423 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:40:33,900 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:41:34,129 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:41:34,661 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:41:35,355 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:41:35,815 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:41:36,310 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:42:36,539 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:42:37,250 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:42:37,858 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:42:38,547 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:42:39,012 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:43:39,253 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:43:39,960 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:43:41,146 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:43:42,133 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:43:42,622 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:44:42,863 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:44:43,219 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:44:43,695 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:44:44,165 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:44:44,653 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:45:44,884 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:45:45,609 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:45:46,608 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:45:47,108 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:45:48,085 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 14:46:48,327 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 14:46:48,863 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 14:46:49,527 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 14:46:50,099 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 14:46:51,164 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:07:53,032 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:07:53,677 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=False
+2025-08-20 15:07:54,440 - INFO - [ETHUSDT] Trend=short | touched=False | confirmed=False
+2025-08-20 15:07:55,603 - INFO - [SOLUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 15:07:57,132 - INFO - [ADAUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 15:08:57,367 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:08:57,720 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:08:58,189 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:08:58,668 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:08:59,132 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:09:59,367 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:09:59,712 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:10:00,192 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:10:00,675 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:10:01,163 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:11:01,399 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:11:01,755 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:11:02,223 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:11:02,737 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:11:03,277 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:12:03,505 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:12:03,904 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:12:04,381 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:12:04,883 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:12:05,375 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:13:05,610 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:13:05,973 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:13:06,466 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:13:07,127 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:13:07,613 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:14:07,841 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:14:08,400 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:14:09,054 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:14:09,529 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:14:10,016 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:15:10,261 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:15:10,625 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:15:11,136 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:15:11,623 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:15:12,117 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:16:12,348 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:16:12,854 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:16:13,333 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:16:13,794 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:16:14,279 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:17:14,512 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:17:15,102 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:17:15,583 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:17:16,092 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:17:16,576 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:18:16,810 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:18:17,152 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:18:17,650 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:18:18,154 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:18:18,626 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:19:18,858 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:19:19,907 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:19:20,395 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:19:21,072 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:19:21,545 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:20:21,774 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:20:22,174 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:20:22,825 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:20:23,510 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:20:23,961 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:21:24,201 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:21:24,548 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:21:25,242 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:21:25,913 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:21:26,398 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 15:22:26,644 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 15:22:27,073 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 15:22:27,761 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 15:22:28,268 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 15:22:28,744 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:34:12,672 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:34:12,718 - ERROR - [BTCUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=BTCUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF43B0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADAEF43B0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=BTCUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF43B0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=BTCUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF43B0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 17:34:12,926 - ERROR - [ETHUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ETHUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ETHUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ETHUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADAEF6690>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 17:34:13,136 - ERROR - [SOLUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=SOLUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADB32B7A0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADB32B7A0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=SOLUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADB32B7A0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=SOLUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADB32B7A0>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 17:34:13,377 - ERROR - [ADAUSDT] Unexpected error: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ADAUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADB32BF20>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020ADB32BF20>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ADAUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADB32BF20>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 239, in job
+    self.process_symbol(sym)
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\trading_bot.py", line 135, in process_symbol
+    df = self.fetcher.ohlcv(sym, self.tf, 500)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\data_fetcher.py", line 13, in ohlcv
+    raw = self.session.get_historical_data(symbol, interval, limit)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 97, in get_historical_data
+    return self._request_public("GET", "/v5/market/kline", {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Projects\cbbot-ema-20-50-200\bybit_demo_session.py", line 38, in _request_public
+    r = requests.get(url, params=params or {}, timeout=15)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-demo.bybit.com', port=443): Max retries exceeded with url: /v5/market/kline?category=linear&symbol=ADAUSDT&interval=60&limit=500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020ADB32BF20>: Failed to resolve 'api-demo.bybit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-20 17:35:13,639 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:35:14,280 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 17:35:15,218 - INFO - [ETHUSDT] Trend=short | touched=False | confirmed=False
+2025-08-20 17:35:15,983 - INFO - [SOLUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 17:35:16,740 - INFO - [ADAUSDT] Trend=short | touched=False | confirmed=True
+2025-08-20 17:36:16,974 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:36:17,705 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:36:18,366 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:36:18,849 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:36:19,338 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:37:19,573 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:37:20,102 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:37:20,602 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:37:21,278 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:37:21,769 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:38:22,002 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:38:22,729 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:38:23,551 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:38:24,016 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:38:24,499 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:39:24,735 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:39:25,071 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:39:25,555 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:39:26,053 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:39:26,716 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:40:26,946 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:40:27,303 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:40:28,183 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:40:28,665 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:40:29,147 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:41:29,391 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:41:29,728 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:41:30,211 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:41:30,870 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:41:31,370 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:42:31,614 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:42:32,330 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:42:32,802 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:42:33,295 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:42:33,772 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 17:43:34,002 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 17:43:34,541 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 17:43:35,035 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 17:43:35,739 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 17:43:36,241 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:19:11,725 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:19:12,803 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=False
+2025-08-20 18:19:14,131 - INFO - [ETHUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:19:15,326 - INFO - [SOLUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:19:16,489 - INFO - [ADAUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:20:16,716 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:20:17,067 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:20:17,671 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:20:18,335 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:20:19,026 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:21:19,247 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:21:19,956 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:21:21,022 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:21:21,499 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:21:21,978 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:22:22,201 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:22:22,585 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:22:23,112 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:22:23,612 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:22:24,095 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:23:24,318 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:23:24,659 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:23:25,142 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:23:25,626 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:23:26,102 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:24:26,326 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:24:27,456 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:24:27,954 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:24:28,632 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:24:29,123 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:25:29,349 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:25:30,127 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:25:30,617 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:25:31,099 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:25:31,592 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:26:31,817 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:26:32,549 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:26:33,198 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:26:33,848 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:26:34,396 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:27:34,618 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:27:35,852 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:27:36,537 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:27:37,076 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:27:37,741 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:28:37,966 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:28:39,022 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:28:39,527 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:28:40,518 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:28:40,992 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:29:41,217 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:29:42,286 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:29:42,769 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:29:43,258 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:29:43,910 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:31:01,707 - INFO - [BTCUSDT] Meta loaded: {'lot_step': 0.001, 'tick_step': 0.1, 'min_order_qty': 0.001}
+2025-08-20 18:31:01,986 - INFO - [ETHUSDT] Meta loaded: {'lot_step': 0.01, 'tick_step': 0.01, 'min_order_qty': 0.01}
+2025-08-20 18:31:02,264 - INFO - [SOLUSDT] Meta loaded: {'lot_step': 0.1, 'tick_step': 0.01, 'min_order_qty': 0.1}
+2025-08-20 18:31:03,033 - INFO - [ADAUSDT] Meta loaded: {'lot_step': 1.0, 'tick_step': 0.0001, 'min_order_qty': 1.0}
+2025-08-20 18:31:03,034 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:31:03,668 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=False
+2025-08-20 18:31:04,778 - INFO - [ETHUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:31:05,724 - INFO - [SOLUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:31:06,962 - INFO - [ADAUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:32:07,187 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:32:07,938 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:32:08,831 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:32:09,351 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:32:10,032 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:33:10,257 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:33:10,950 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:33:11,641 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:33:12,206 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:33:12,711 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:36:19,099 - INFO - [BTCUSDT] Meta loaded: {'lot_step': 0.001, 'tick_step': 0.1, 'min_order_qty': 0.001}
+2025-08-20 18:36:19,399 - INFO - [ETHUSDT] Meta loaded: {'lot_step': 0.01, 'tick_step': 0.01, 'min_order_qty': 0.01}
+2025-08-20 18:36:19,664 - INFO - [SOLUSDT] Meta loaded: {'lot_step': 0.1, 'tick_step': 0.01, 'min_order_qty': 0.1}
+2025-08-20 18:36:19,948 - INFO - [ADAUSDT] Meta loaded: {'lot_step': 1.0, 'tick_step': 0.0001, 'min_order_qty': 1.0}
+2025-08-20 18:36:19,950 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:36:20,557 - INFO - [BTCUSDT] Trend=short | touched=False | confirmed=False
+2025-08-20 18:36:21,513 - INFO - [ETHUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:36:22,303 - INFO - [SOLUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:36:23,077 - INFO - [ADAUSDT] Trend=short | touched=True | confirmed=False
+2025-08-20 18:37:23,301 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:37:23,632 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:37:24,131 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:37:24,622 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:37:25,121 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:38:25,344 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:38:26,368 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:38:26,881 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:38:27,400 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:38:28,226 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:39:28,451 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:39:29,188 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:39:29,773 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:39:30,251 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:39:30,756 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:40:30,978 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:40:31,722 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:40:32,580 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:40:33,212 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:40:33,868 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:41:34,089 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:41:36,243 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:41:36,936 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:41:37,410 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:41:37,900 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:42:38,124 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:42:38,874 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:42:39,537 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:42:40,198 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:42:40,763 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:43:40,988 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:43:41,385 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:43:42,203 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:43:43,187 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:43:43,709 - INFO - [ADAUSDT] No new bar yet.
+2025-08-20 18:44:43,933 - INFO - ====== Bot iteration (multi-symbol) ======
+2025-08-20 18:44:44,670 - INFO - [BTCUSDT] No new bar yet.
+2025-08-20 18:44:45,157 - INFO - [ETHUSDT] No new bar yet.
+2025-08-20 18:44:45,659 - INFO - [SOLUSDT] No new bar yet.
+2025-08-20 18:44:46,153 - INFO - [ADAUSDT] No new bar yet.
