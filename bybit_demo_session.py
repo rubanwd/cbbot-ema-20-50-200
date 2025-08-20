@@ -126,12 +126,24 @@ class BybitDemoSession:
     # -------------------- Trading (private) --------------------
 
     def set_leverage(self, symbol: str, leverage: int):
-        return self._request_private("POST", "/v5/position/set-leverage", {
-            "category": "linear",
-            "symbol": symbol,
-            "buyLeverage": str(leverage),
-            "sellLeverage": str(leverage)
-        })
+        """
+        Bybit retCode 110043 = 'leverage not modified' (плечо уже такое).
+        Не считаем это ошибкой.
+        """
+        try:
+            return self._request_private("POST", "/v5/position/set-leverage", {
+                "category": "linear",
+                "symbol": symbol,
+                "buyLeverage": str(leverage),
+                "sellLeverage": str(leverage)
+            })
+        except RuntimeError as e:
+            msg = str(e)
+            if "110043" in msg or "leverage not modified" in msg:
+                # Просто возвращаем маркер, чтобы логировать и продолжать
+                return {"status": "ok", "note": "leverage already set"}
+            raise
+
 
     def place_order(
         self,
