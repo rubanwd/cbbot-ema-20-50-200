@@ -1,0 +1,8 @@
+services:
+  - type: worker
+    name: cbbot-ema-20-50-200
+    env: python
+    plan: free
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: python trading_bot.py
+    autoDeploy: true
