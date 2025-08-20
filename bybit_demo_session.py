@@ -145,34 +145,27 @@ class BybitDemoSession:
             raise
 
 
-    def place_order(
-        self,
-        symbol: str,
-        side: str,                 # "Buy" | "Sell"
-        qty: float,
-        order_type: str = "Market",
-        price: Optional[float] = None,
-        position_mode: str = "one_way",
-        stop_loss: Optional[float] = None,
-        take_profit: Optional[float] = None
-    ):
-        position_idx = 0 if position_mode == "one_way" else (1 if side.lower() == "buy" else 2)
-        params: Dict[str, Any] = {
+    def place_order(self, symbol, side, qty, entry, stop_loss, take_profit, position_mode="OneWay"):
+        # positionIdx зависит от режима
+        if position_mode == "OneWay":
+            position_idx = 0
+        else:  # Hedge mode
+            position_idx = 1 if side == "Buy" else 2
+
+        params = {
             "category": "linear",
             "symbol": symbol,
-            "side": side,
-            "orderType": order_type,
-            "qty": str(qty),
-            "positionIdx": position_idx
+            "side": side,  # "Buy" или "Sell"
+            "orderType": "Market",
+            "qty": qty,
+            "positionIdx": position_idx,
+            "stopLoss": str(stop_loss),
+            "takeProfit": str(take_profit),
+            "reduceOnly": False,
+            "closeOnTrigger": False,
         }
-        if order_type == "Limit" and price is not None:
-            params["price"] = str(price)
-        if stop_loss is not None:
-            params["stopLoss"] = str(stop_loss)
-        if take_profit is not None:
-            params["takeProfit"] = str(take_profit)
-
         return self._request_private("POST", "/v5/order/create", params)
+
 
     def close_position(self, symbol: str, size: float, side_in_position: Optional[str] = None):
         """

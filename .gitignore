@@ -2,3 +2,4 @@ trading_bot.log
 *.csv
 *.log
 *.jsonl
+/__pycache__
