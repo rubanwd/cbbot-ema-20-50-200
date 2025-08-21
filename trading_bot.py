@@ -38,6 +38,8 @@ class TradingBot:
     Мульти-активный бот по EMA-20/50/200 (1h).
     Теперь:
       - на каждой итерации логируются EMA20/EMA50/EMA200 и строка Trend/touched/confirmed по каждому символу
+      - логи "No new bar yet." показывают, если по символу есть открытая позиция
+      - глобальный режим single-position: одновременно разрешена только ОДНА позиция
       - все ордера/закрытия пишутся в logs/trades.csv и logs/trades.jsonl
     """
     def __init__(self):
@@ -62,6 +64,9 @@ class TradingBot:
         self.max_position_hours = float(os.getenv("POSITION_MAX_HOURS", 12))
         self.cooldown_seconds = int(os.getenv("COOLDOWN_SECONDS", 7200))
 
+        # режим «только одна позиция одновременно» (по умолчанию включён)
+        self.single_position_mode = os.getenv("SINGLE_POSITION_MODE", "1") not in ("0", "false", "False")
+
         self.fetcher = DataFetcher(self.api_key, self.api_secret)
         self.strategy = Strategies(self.fetcher)
         self.risk = RiskManagement()
@@ -69,6 +74,10 @@ class TradingBot:
 
         self.meta_map: Dict[str, dict] = {}
         self.ctx: Dict[str, SymbolContext] = {sym: SymbolContext() for sym in self.symbols}
+
+        # карта открытых позиций обновляется один раз в начале каждой итерации
+        self._open_pos_map: Dict[str, list] = {}
+        self._any_open_positions: bool = False
 
         for sym in self.symbols:
             try:
@@ -81,6 +90,25 @@ class TradingBot:
     # ---------- utils ----------
     def _now(self) -> float:
         return time.time()
+
+    def _refresh_open_positions_map(self):
+        """Запрашиваем открытые позиции по всем символам один раз на итерацию."""
+        self._open_pos_map = {}
+        any_open = False
+        for s in self.symbols:
+            try:
+                lst = self.fetcher.session.get_open_positions(s) or []
+            except Exception:
+                lst = []
+            self._open_pos_map[s] = lst
+            if lst:
+                any_open = True
+        self._any_open_positions = any_open
+
+    def _symbol_open_position(self, sym: str):
+        """Вернуть первую открытую позицию по символу (или None)."""
+        lst = self._open_pos_map.get(sym) or []
+        return lst[0] if lst else None
 
     def _cooldown_ok(self, sym: str) -> bool:
         c = self.ctx[sym]
@@ -149,42 +177,38 @@ class TradingBot:
         prev = df.iloc[-2]
         c = self.ctx[sym]
 
-        # EMA логируем всегда (две ситуации ниже)
+        # 1.1) EMA/тренд, чтобы печатать независимо от наличия нового бара
         ema20, ema50, ema200 = float(latest['ema20']), float(latest['ema50']), float(latest['ema200'])
+        trend_side = self.strategy.trend_side(prev, latest)  # 'long'|'short'|None
+        touched = self.strategy.touch_pullback_recent(df, trend_side, lookback_bars=2) if trend_side else False
+        confirmed = self.strategy.confirm(latest, trend_side) if trend_side else False
 
-        # реагируем только на закрытие НОВОЙ свечи 1h
+        # 1.2) позиция по символу из кэша этой итерации
+        pos = self._symbol_open_position(sym)
+
+        # 1.3) реагируем только на закрытие новой свечи 1h
         if c.last_bar_ts_processed is not None and latest['ts'] == c.last_bar_ts_processed:
-            logging.info(f"[{sym}] No new bar yet.")
-
-            # ---- ДОБАВЛЕНО: всегда логируем Trend/touched/confirmed даже без нового бара ----
-            side_tmp = self.strategy.trend_side(prev, latest)  # 'long'|'short'|None
-            if side_tmp is None:
-                touched_tmp = False
-                confirmed_tmp = False
-                side_print = "none"
+            if pos:
+                size = float(pos.get('size', 0.0))
+                side_in_pos = pos.get('side')
+                logging.info(f"[{sym}] Position OPEN (side={side_in_pos}, size={size}) | No new bar yet.")
             else:
-                touched_tmp = self.strategy.touch_pullback_recent(df, side_tmp, lookback_bars=2)
-                confirmed_tmp = self.strategy.confirm(latest, side_tmp)
-                side_print = side_tmp
-            logging.info(f"[{sym}] Trend={side_print} | touched={touched_tmp} | confirmed={confirmed_tmp}")
-            # -----------------------------------------------------------------------------
-
+                logging.info(f"[{sym}] No new bar yet.")
+            logging.info(f"[{sym}] Trend={trend_side or 'none'} | touched={touched} | confirmed={confirmed}")
             logging.info(f"[{sym}] EMA20={ema20:.6f} | EMA50={ema50:.6f} | EMA200={ema200:.6f}")
             return
+
+        # зафиксировали новую свечу
         c.last_bar_ts_processed = latest['ts']
 
-        # 2) позиция открыта? менеджим
-        open_positions = self.fetcher.session.get_open_positions(sym)
-        if open_positions:
+        # 2) если позиция по символу открыта — менеджим
+        if pos:
             logging.info(f"[{sym}] Position is open -> manage")
-            # текущие EMA
             logging.info(f"[{sym}] EMA20={ema20:.6f} | EMA50={ema50:.6f} | EMA200={ema200:.6f}")
 
-            # автозакрытие по возрасту
-            if self._auto_close_if_overtime(sym, open_positions):
+            if self._auto_close_if_overtime(sym, [pos]):
                 logging.info(f"[{sym}] Closed overtime position.")
             else:
-                pos = open_positions[0]
                 side_in_position = pos.get('side')   # 'Buy'|'Sell'
                 size = float(pos.get('size', 0))
                 if side_in_position == "Buy" and latest['close'] < latest['ema20']:
@@ -200,14 +224,8 @@ class TradingBot:
                             extra={"api_response": res}
                         )
                     except Exception as e:
-                        self.ev.log_event(
-                            event="error",
-                            symbol=sym,
-                            side="Buy",
-                            qty=size,
-                            reason=f"trail_exit_error: {e}",
-                            extra={"exception": str(e)}
-                        )
+                        self.ev.log_event(event="error", symbol=sym, side="Buy", qty=size,
+                                          reason=f"trail_exit_error: {e}", extra={"exception": str(e)})
                         raise
                     c.last_closed_position_time = self._now()
                     c.state = "FLAT"
@@ -224,56 +242,37 @@ class TradingBot:
                             extra={"api_response": res}
                         )
                     except Exception as e:
-                        self.ev.log_event(
-                            event="error",
-                            symbol=sym,
-                            side="Sell",
-                            qty=size,
-                            reason=f"trail_exit_error: {e}",
-                            extra={"exception": str(e)}
-                        )
+                        self.ev.log_event(event="error", symbol=sym, side="Sell", qty=size,
+                                          reason=f"trail_exit_error: {e}", extra={"exception": str(e)})
                         raise
                     c.last_closed_position_time = self._now()
                     c.state = "FLAT"
             return
 
-        # 3) когда позиции нет — сбрасываем "время открытия"
+        # 3) когда позиции по символу нет — сбрасываем локальное время открытия
         c.position_open_time = None
 
-        # 4) кулдаун
-        if not self._cooldown_ok(sym):
-            # тоже выводим Trend/touched/confirmed при кулдауне
-            side_tmp = self.strategy.trend_side(prev, latest)
-            if side_tmp is None:
-                touched_tmp = False
-                confirmed_tmp = False
-                side_print = "none"
-            else:
-                touched_tmp = self.strategy.touch_pullback_recent(df, side_tmp, lookback_bars=2)
-                confirmed_tmp = self.strategy.confirm(latest, side_tmp)
-                side_print = side_tmp
-            logging.info(f"[{sym}] Trend={side_print} | touched={touched_tmp} | confirmed={confirmed_tmp}")
+        # 4) глобальный запрет на больше одной позиции
+        if self.single_position_mode and self._any_open_positions:
+            logging.info(f"[{sym}] Single-position mode: another symbol has an open position -> skip entries.")
             logging.info(f"[{sym}] EMA20={ema20:.6f} | EMA50={ema50:.6f} | EMA200={ema200:.6f}")
             return
 
-        # 5) фильтр тренда
-        side = self.strategy.trend_side(prev, latest)  # 'long'|'short'|None
+        # 5) кулдаун
+        if not self._cooldown_ok(sym):
+            logging.info(f"[{sym}] Trend={trend_side or 'none'} | touched={touched} | confirmed={confirmed}")
+            logging.info(f"[{sym}] EMA20={ema20:.6f} | EMA50={ema50:.6f} | EMA200={ema200:.6f}")
+            return
 
-        # 6) touch + confirm
-        touched = False
-        confirmed = False
-        if side is not None:
-            touched = self.strategy.touch_pullback_recent(df, side, lookback_bars=2)
-            confirmed = self.strategy.confirm(latest, side)
-
-        logging.info(f"[{sym}] Trend={side or 'none'} | touched={touched} | confirmed={confirmed}")
+        # 6) если тренда/сигнала нет — просто логируем и выходим
+        logging.info(f"[{sym}] Trend={trend_side or 'none'} | touched={touched} | confirmed={confirmed}")
         logging.info(f"[{sym}] EMA20={ema20:.6f} | EMA50={ema50:.6f} | EMA200={ema200:.6f}")
-
-        if side is None or not (touched and confirmed):
-            c.state = "SETUP" if (side is not None and touched) else "FLAT"
+        if (trend_side is None) or not (touched and confirmed):
+            c.state = "SETUP" if (trend_side is not None and touched) else "FLAT"
             return
 
         # --- 7) ВХОД ---
+        side = trend_side  # 'long'|'short'
         entry = float(latest['close'])
         atr = float(latest['atr14'])
         swing_idx = self.strategy.swing_extreme(df, side, lookback=5)
@@ -293,12 +292,18 @@ class TradingBot:
         logging.info(f"[{sym}] ENTRY {side} | entry={entry} stop={stop} tp={tp} qty={qty}")
 
         try:
+            # плечо можно не трогать, если уже установлено — обёртка на стороне сессии сама обработает
             self.fetcher.session.set_leverage(sym, self.leverage)
+
+            # ВАЖНО: для Bybit API side должен быть 'Buy'/'Sell'
+            api_side = "Buy" if side == "long" else "Sell"
+
             res = self.fetcher.session.place_order(
                 symbol=sym,
-                side="Buy" if side == "long" else "Sell",
+                side=api_side,
                 qty=qty,
-                order_type="Market",
+                current_price=entry,
+                leverage=self.leverage,
                 stop_loss=stop,
                 take_profit=tp
             )
@@ -315,7 +320,7 @@ class TradingBot:
             self.ev.log_event(
                 event="order_placed",
                 symbol=sym,
-                side="Buy" if side == "long" else "Sell",
+                side=api_side,
                 qty=qty,
                 entry_price=entry,       # ожидаемая цена (факт. средняя может отличаться)
                 stop_loss=stop,
@@ -334,7 +339,7 @@ class TradingBot:
             self.ev.log_event(
                 event="error",
                 symbol=sym,
-                side="Buy" if side == "long" else "Sell",
+                side=("Buy" if side == "long" else "Sell"),
                 qty=qty,
                 entry_price=entry,
                 stop_loss=stop,
@@ -348,6 +353,10 @@ class TradingBot:
     # ---------- main loop ----------
     def job(self):
         logging.info("====== Bot iteration (multi-symbol) ======")
+
+        # один раз на итерацию обновляем карту открытых позиций
+        self._refresh_open_positions_map()
+
         for sym in self.symbols:
             try:
                 self.process_symbol(sym)
