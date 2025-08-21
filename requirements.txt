@@ -1,5 +1,8 @@
+--only-binary=:all:
+--upgrade-strategy=eager
+
 python-dotenv==1.0.1
 requests==2.32.3
-pandas==2.2.2
 numpy==1.26.4
+pandas==2.2.2
 schedule==1.2.2
